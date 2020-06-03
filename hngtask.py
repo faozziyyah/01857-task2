@@ -1,0 +1,1 @@
+print ('hello world!, this is faozziyyah Daud opeyemi with hng ID 01875 using python language for stage2 task')
